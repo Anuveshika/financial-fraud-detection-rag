@@ -1,0 +1,101 @@
+﻿transaction_id,amount,location,merchant,description
+TXN001,12000,Offshore-Cayman,Unknown,Large transfer to offshore account with no prior transaction history
+TXN002,45,New York,Amazon,Normal online purchase using saved card
+TXN003,9800,Ukraine,CryptoExchange,High-value crypto transaction from high-risk region
+TXN004,15,California,Starbucks,Routine coffee purchase
+TXN005,15000,Singapore,Unknown,Multiple failed authentication attempts followed by large transfer
+TXN006,300,London,Apple,Standard electronics purchase from known device
+TXN007,25000,Russia,Unknown,Transaction initiated from sanctioned country IP address
+TXN008,60,Bangalore,Swiggy,Normal food delivery transaction
+TXN009,7200,Nigeria,Unknown,International transfer flagged due to suspicious routing
+TXN010,110,New York,Uber,Ride payment with usual spending pattern
+TXN011,18500,Hong Kong,Unknown,Unusual late-night transfer to newly added beneficiary
+TXN012,90,Berlin,Amazon,Standard e-commerce purchase
+TXN013,5000,Dubai,CryptoExchange,Crypto purchase just below reporting threshold
+TXN014,20,San Francisco,Netflix,Monthly subscription renewal
+TXN015,30000,Offshore-Panama,Unknown,Shell company account transfer detected
+TXN016,55,Mumbai,Zomato,Routine food order from mobile app
+TXN017,8200,Turkey,Unknown,Cross-border transfer with mismatched device fingerprint
+TXN018,240,Paris,Decathlon,Sporting goods purchase
+TXN019,17000,China,Unknown,Large transaction from new device and IP address
+TXN020,35,Delhi,BookMyShow,Movie ticket booking
+TXN021,45000,Russia,Unknown,Repeated high-value transfers over short duration
+TXN022,125,Tokyo,Amazon,Normal purchase using two-factor authentication
+TXN023,9200,Philippines,Unknown,Transaction shows velocity anomaly across accounts
+TXN024,18,Bangalore,UberEats,Small food purchase with consistent behavior
+TXN025,6700,Estonia,CryptoExchange,Crypto withdrawal using privacy-focused wallet
+TXN026,200,Chicago,Target,Retail purchase in usual location
+TXN027,15500,Offshore-BVI,Unknown,Account linked to prior money laundering case
+TXN028,75,London,Spotify,Monthly music subscription
+TXN029,8800,South Africa,Unknown,Unrecognized merchant with international routing
+TXN030,28,Hyderabad,Swiggy,Normal lunch order
+TXN031,22000,Iran,Unknown,Transaction from embargoed jurisdiction
+TXN032,95,Sydney,Amazon,Standard shopping transaction
+TXN033,41000,Offshore-Cayman,Unknown,Rapid fund movement across multiple offshore accounts
+TXN034,150,Bangalore,Flipkart,Routine electronics accessory purchase
+TXN035,7600,Mexico,Unknown,Unusual merchant category for customer profile
+TXN036,12,Pune,IRCTC,Train ticket booking
+TXN037,19500,Hong Kong,Unknown,Large transfer following account password reset
+TXN038,85,Chennai,Uber,Standard ride payment
+TXN039,50000,Offshore-Panama,Unknown,Layering pattern observed across shell entities
+TXN040,40,Noida,Dominos,Regular food purchase with no anomalies
+TXN041,6400,Brazil,Unknown,Cross-border transfer with inconsistent IP geolocation
+TXN042,70,Los Angeles,Spotify,Monthly subscription payment
+TXN043,8900,Vietnam,Unknown,Merchant category mismatch for user spending profile
+TXN044,22,Bangalore,BigBasket,Grocery purchase from known device
+TXN045,16000,Qatar,Unknown,High-value remittance to newly added beneficiary
+TXN046,310,Frankfurt,Apple,Electronics purchase with verified device
+TXN047,27500,North Korea,Unknown,Transaction from blacklisted jurisdiction
+TXN048,50,Pune,Swiggy,Routine dinner order
+TXN049,9100,Indonesia,Unknown,Repeated transaction retries before success
+TXN050,130,Seattle,Amazon,Normal retail purchase
+TXN051,36000,Offshore-Cayman,Unknown,Funds cycled through multiple offshore accounts
+TXN052,65,Mumbai,Netflix,Subscription renewal
+TXN053,7400,Kenya,Unknown,Unusual routing through intermediary banks
+TXN054,19,Chandigarh,UberEats,Small food transaction
+TXN055,28000,Malaysia,Unknown,Rapid escalation in transaction value
+TXN056,210,Toronto,BestBuy,Consumer electronics purchase
+TXN057,8300,Colombia,Unknown,IP address mismatch with registered country
+TXN058,33,Bhopal,Zomato,Regular food order
+TXN059,47000,Offshore-Panama,Unknown,Complex layering and structuring behavior detected
+TXN060,98,Auckland,Amazon,Normal e-commerce transaction
+TXN061,6600,Egypt,Unknown,Transaction flagged due to high-risk corridor
+TXN062,25,Jaipur,Dominos,Routine meal purchase
+TXN063,14000,Thailand,Unknown,Sudden large international transfer
+TXN064,180,Bangalore,Croma,Electronics purchase with normal pattern
+TXN065,52000,Russia,Unknown,High-value transaction spike across multiple accounts
+TXN066,42,Indore,Swiggy,Routine food purchase
+TXN067,8700,Peru,Unknown,Multiple small transactions followed by large transfer
+TXN068,115,San Jose,Amazon,Normal online shopping
+TXN069,39000,Offshore-BVI,Unknown,Shell company fund consolidation
+TXN070,55,Gurgaon,Zomato,Regular food delivery
+TXN071,9200,Argentina,Unknown,Cross-border transfer outside typical behavior
+TXN072,150,Melbourne,Apple,Electronics accessory purchase
+TXN073,48000,Offshore-Cayman,Unknown,Rapid cross-border fund movements detected
+TXN074,29,Trivandrum,Swiggy,Normal breakfast order
+TXN075,10500,Saudi Arabia,Unknown,Unusual transfer time and destination
+TXN076,260,Amsterdam,Decathlon,Sporting goods purchase
+TXN077,34500,Offshore-Panama,Unknown,Multiple intermediary accounts used in transfer
+TXN078,90,Coimbatore,Amazon,Routine purchase
+TXN079,6800,Morocco,Unknown,Inconsistent device and location data
+TXN080,48,Patna,Dominos,Normal pizza order
+TXN081,23000,Turkey,Unknown,Large transfer with device fingerprint change
+TXN082,170,Bangalore,Flipkart,Standard retail purchase
+TXN083,55000,Offshore-Cayman,Unknown,Suspicious fund aggregation activity
+TXN084,21,Meerut,UberEats,Small food order
+TXN085,7600,Poland,Unknown,Unusual merchant for account profile
+TXN086,140,Zurich,Apple,Normal electronics purchase
+TXN087,41000,Offshore-BVI,Unknown,Repeated offshore fund circulation
+TXN088,38,Guwahati,Zomato,Regular meal order
+TXN089,8900,Chile,Unknown,Transaction routed via multiple correspondent banks
+TXN090,62,Kochi,Swiggy,Normal food purchase
+TXN091,32000,Iran,Unknown,Transfer from restricted jurisdiction
+TXN092,155,Oslo,Amazon,Routine e-commerce purchase
+TXN093,46000,Offshore-Panama,Unknown,Layered transactions involving shell companies
+TXN094,27,Varanasi,Dominos,Routine food order
+TXN095,11800,South Korea,Unknown,Large international transfer at unusual hour
+TXN096,225,Bangalore,Croma,Standard electronics purchase
+TXN097,60000,Offshore-Cayman,Unknown,Complex money laundering pattern suspected
+TXN098,44,Ranchi,Uber,Normal ride payment
+TXN099,10200,Spain,Unknown,Cross-border transfer outside usual spending pattern
+TXN100,35,Madurai,Swiggy,Regular food delivery transaction
