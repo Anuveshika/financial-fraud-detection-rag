@@ -15,9 +15,9 @@ def load_transactions(file_path: str) -> list[str]:
         # Primary attempt (most stable for Excel CSVs)
         df = pd.read_csv(
             file_path,
-            encoding="utf-8-sig",   # ✅ handles BOM
+            encoding="utf-8-sig",
             sep=",",
-            engine="c"              # ✅ avoid python parser issues
+            engine="c"              
         )
     except Exception:
         # Fallback (auto-detect delimiter if comma fails)
